@@ -3,7 +3,7 @@
 Proyecto de Trifoliar en Equipo
 https://thomas110902.github.io/TrifoliarEquipo/
 
-###Sistema de Carpetas
+### Sistema de Carpetas
 .
 ├── config.css
 ├── index2.html
