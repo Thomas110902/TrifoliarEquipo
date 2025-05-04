@@ -42,9 +42,15 @@
     height: 800px;
     width: 600px;
 }
-.link{
-    border: 3px solid black;
-    border-radius: 5px;
+.link{ 
+    position: absolute;     
+    bottom: 10px;           
+    left: 60px;              
+    text-align: center;
+    padding: 20px 40px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
     background: gray;
     color: black;
 }
